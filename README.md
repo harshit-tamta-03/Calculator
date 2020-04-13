@@ -1,4 +1,4 @@
-# Calculator
+# Calculator ![](ic_launcher.png)
 
 This is a flutter project deals with basing operation of a calculator.
 
